@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with *Advanced Machine Learning*
 
-- 👨‍💻 All of my projects are available at [https://github.com/chandanas-perspective-data](https://github.com/chandanas-perspective-data)
+- 👨‍💻 All of my projects are available at [https://github.com/Chandanas-Perspective-Data](https://github.com/chandanas-perspective-data)
 
 - 📝 I regularly write Code on [Sublime, PyCharm, Jupyter, Spyder, GoogleColab,](Sublime, PyCharm, Jupyter, Spyder, GoogleColab,)
 
